@@ -1087,27 +1087,7 @@ audio {
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
-#b1,#b11 {
-	background-image: url('/ceremony/img/b1.png');
-}
-#b2,#b22 {
-	background-image: url('/ceremony/img/b2.png');
-}
-#b3,#b33 {
-	background-image: url('/ceremony/img/b3.png');
-}
-#b4,#b44{
-	background-image: url('/ceremony/img/b4.png');
-}
-#b5,#b55{
-	background-image: url('/ceremony/img/b5.png');
-}
-#b6,#b66{
-	background-image: url('/ceremony/img/b6.png');
-}
-#b7,#b77{
-	background-image: url('/ceremony/img/b7.png');
-}
+/* Balloon images removed - b1-b7 */
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
 	-webkit-transform: rotate(30deg);
